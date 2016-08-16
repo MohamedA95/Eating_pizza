@@ -27,11 +27,11 @@ Output
 For each test case print a single number, the area of the circle with relative error up to 1e-6.
 Examples
 
-Standard input                                  Standard output
+Standard input<----->Standard output
 3
-1                                 2 . 418399
-3                                  7 . 255197
-27                                  65 . 296777
+1------------------->2 . 418399
+3------------------->7 . 255197
+27------------------>65 . 296777
 
 
 
